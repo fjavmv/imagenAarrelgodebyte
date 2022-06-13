@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "O1JngkRyN1x1t9ygevanRGL0Dl94DUIU5xP0ZX88hPogJzTrkBiGkEzlCKvH06//RP6qWIvhtAfT60OLhna6Jw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Latitude\\source\\repos\\Ejemplmagen\\Ejemplmagen\\Ejemplmagen.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Latitude\\.nuget\\packages\\npgsql\\6.0.4\\npgsql.6.0.4.nupkg.sha512",
+    "C:\\Users\\Latitude\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
